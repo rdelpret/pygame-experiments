@@ -1,4 +1,3 @@
-pygame 2.1.2 (SDL 2.0.18, Python 3.9.9)
 import pygame, sys
 from pygame.locals import *
 import random
